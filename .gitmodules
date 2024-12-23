@@ -16,3 +16,6 @@
 [submodule "modules/codbex-companies"]
 	path = modules/codbex-companies
 	url = https://github.com/codbex/codbex-companies
+[submodule "modules/codbex-organizations"]
+	path = modules/codbex-organizations
+	url = https://github.com/codbex/codbex-organizations
