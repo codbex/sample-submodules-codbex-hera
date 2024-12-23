@@ -28,3 +28,6 @@
 [submodule "modules/codbex-hera-print"]
 	path = modules/codbex-hera-print
 	url = https://github.com/codbex/codbex-hera-print
+[submodule "modules/codbex-currencies"]
+	path = modules/codbex-currencies
+	url = https://github.com/codbex/codbex-currencies
