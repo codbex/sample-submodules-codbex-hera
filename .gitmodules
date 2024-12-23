@@ -4,3 +4,6 @@
 [submodule "modules/codbex-jobs"]
 	path = modules/codbex-jobs
 	url = https://github.com/codbex/codbex-jobs
+[submodule "modules/codbex-countries"]
+	path = modules/codbex-countries
+	url = https://github.com/codbex/codbex-countries
