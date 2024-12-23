@@ -6,7 +6,17 @@
 git clone https://github.com/codbex/sample-submodules-codbex-hera
 git submodule update --init --recursive
 pnpm build
+docker build -t codbex-hera-submodules .
 ```
+
+## Reset Untracked Submodule Changes
+
+```
+git submodule foreach --recursive git reset --hard
+git submodule foreach --recursive git clean -fd
+```
+
+> _**Note:** Execute these commands after `pnpm build` and `docker build` to clean-up the submodules from the build artefacts (`*.js` files)_
 
 ## How to Use Submodules
 
