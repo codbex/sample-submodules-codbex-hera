@@ -46,3 +46,6 @@
 [submodule "modules/codbex-payrolls"]
 	path = modules/codbex-payrolls
 	url = https://github.com/codbex/codbex-payrolls
+[submodule "modules/codbex-number-generator-data"]
+	path = modules/codbex-number-generator-data
+	url = https://github.com/codbex/codbex-number-generator-data
