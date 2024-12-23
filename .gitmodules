@@ -25,3 +25,6 @@
 [submodule "modules/codbex-vacations"]
 	path = modules/codbex-vacations
 	url = https://github.com/codbex/codbex-vacations
+[submodule "modules/codbex-hera-print"]
+	path = modules/codbex-hera-print
+	url = https://github.com/codbex/codbex-hera-print
