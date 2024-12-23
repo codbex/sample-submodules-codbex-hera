@@ -37,3 +37,6 @@
 [submodule "modules/codbex-payments"]
 	path = modules/codbex-payments
 	url = https://github.com/codbex/codbex-payments
+[submodule "modules/codbex-salaries"]
+	path = modules/codbex-salaries
+	url = https://github.com/codbex/codbex-salaries
