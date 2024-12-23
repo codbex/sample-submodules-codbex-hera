@@ -22,3 +22,6 @@
 [submodule "modules/codbex-employees"]
 	path = modules/codbex-employees
 	url = https://github.com/codbex/codbex-employees
+[submodule "modules/codbex-vacations"]
+	path = modules/codbex-vacations
+	url = https://github.com/codbex/codbex-vacations
