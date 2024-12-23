@@ -52,3 +52,6 @@
 [submodule "modules/codbex-branding"]
 	path = modules/codbex-branding
 	url = https://github.com/codbex/codbex-branding
+[submodule "modules/codbex-navigation-groups"]
+	path = modules/codbex-navigation-groups
+	url = https://github.com/codbex/codbex-navigation-groups
