@@ -1,3 +1,6 @@
 [submodule "modules/codbex-number-generator"]
 	path = modules/codbex-number-generator
 	url = https://github.com/codbex/codbex-number-generator
+[submodule "modules/codbex-jobs"]
+	path = modules/codbex-jobs
+	url = https://github.com/codbex/codbex-jobs
