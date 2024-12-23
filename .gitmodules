@@ -31,3 +31,6 @@
 [submodule "modules/codbex-currencies"]
 	path = modules/codbex-currencies
 	url = https://github.com/codbex/codbex-currencies
+[submodule "modules/codbex-partners"]
+	path = modules/codbex-partners
+	url = https://github.com/codbex/codbex-partners
