@@ -34,3 +34,6 @@
 [submodule "modules/codbex-partners"]
 	path = modules/codbex-partners
 	url = https://github.com/codbex/codbex-partners
+[submodule "modules/codbex-payments"]
+	path = modules/codbex-payments
+	url = https://github.com/codbex/codbex-payments
