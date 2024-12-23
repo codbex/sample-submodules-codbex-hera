@@ -13,3 +13,6 @@
 [submodule "modules/codbex-contracts"]
 	path = modules/codbex-contracts
 	url = https://github.com/codbex/codbex-contracts
+[submodule "modules/codbex-companies"]
+	path = modules/codbex-companies
+	url = https://github.com/codbex/codbex-companies
