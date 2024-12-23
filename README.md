@@ -1,5 +1,13 @@
 # sample-submodules-codbex-hera
 
+## Build
+
+```
+git clone https://github.com/codbex/sample-submodules-codbex-hera
+git submodule update --init --recursive
+pnpm build
+```
+
 ## How to Use Submodules
 
 1. Adding a Submodule:
@@ -31,6 +39,13 @@
     ```
     cd <submodule-path>
     git pull origin <branch>
+    ```
+
+    Example:
+
+    ```
+    cd modules/codbex-cities
+    git pull origin main
     ```
 
     > _**Note:** Commit the changes in the parent repository to reflect the updated submodule._
