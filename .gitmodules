@@ -49,3 +49,6 @@
 [submodule "modules/codbex-number-generator-data"]
 	path = modules/codbex-number-generator-data
 	url = https://github.com/codbex/codbex-number-generator-data
+[submodule "modules/codbex-branding"]
+	path = modules/codbex-branding
+	url = https://github.com/codbex/codbex-branding
