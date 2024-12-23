@@ -7,3 +7,6 @@
 [submodule "modules/codbex-countries"]
 	path = modules/codbex-countries
 	url = https://github.com/codbex/codbex-countries
+[submodule "modules/codbex-cities"]
+	path = modules/codbex-cities
+	url = https://github.com/codbex/codbex-cities
