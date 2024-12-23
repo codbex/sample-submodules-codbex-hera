@@ -10,3 +10,6 @@
 [submodule "modules/codbex-cities"]
 	path = modules/codbex-cities
 	url = https://github.com/codbex/codbex-cities
+[submodule "modules/codbex-contracts"]
+	path = modules/codbex-contracts
+	url = https://github.com/codbex/codbex-contracts
