@@ -1,0 +1,13 @@
+{
+    "name": "@codbex/sample-submodules-codbexhera",
+    "version": "0.1.0",
+    "private": true,
+    "packageManager": "pnpm@9.1.2",
+    "scripts": {
+        "install-and-build": "pnpm install && turbo run build",
+        "build": "turbo run build --continue"
+    },
+    "devDependencies": {
+        "turbo": "1.13.3"
+    }
+}
